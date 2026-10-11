@@ -60,3 +60,7 @@ The script currently writes `zomato_mumbai_nightlife.csv` to the current working
 - The browser is launched with headless=False, so a visible browser window is expected.
 - The script waits for the page session and adds a short delay between paginated requests; actual results depend on the site's current response behavior.
 - Review the target site's terms, access policies, and applicable laws before collecting or redistributing data.
+
+## Synthetic sample data
+
+[`sample_synthetic_12_records.csv`](sample_synthetic_12_records.csv) contains **12 synthetic test records** using the scraper's output schema. These records were generated for schema inspection and portfolio/demo purposes; they were not collected from the source website or API. Names and addresses are fictional, contact details and example.com links are placeholders, coordinates are illustrative, and ratings/prices are not real or current. Do not use them for real-world navigation or pricing decisions.
