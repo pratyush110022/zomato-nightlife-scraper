@@ -1,0 +1,4 @@
+﻿# Dependencies for Zomato Nightlife Scraper
+pandas
+requests
+playwright
