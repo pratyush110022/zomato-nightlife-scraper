@@ -53,7 +53,7 @@ Run:
 
     python Zomato_Scraper.py
 
-The CSV is written to the current working directory by the final to_csv() call in the script. Change that output filename in the script if a different or location-neutral filename is required.
+The script currently writes `zomato_mumbai_nightlife.csv` to the current working directory. Change the filename in the final `to_csv()` call if you want a different output name.
 
 ## Operational notes
 
